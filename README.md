@@ -1,6 +1,8 @@
 # I'm Leandro Franco 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandro-Franco)](https://github.com/Leandro-Franco/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandro-Franco&show_icons=true&theme=transparent)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leandro-Franco&repo=github-readme-stats)](https://github.com/Leandro-Franco/github-readme-stats)
 <!--
 **Leandro-Franco/Leandro-Franco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
