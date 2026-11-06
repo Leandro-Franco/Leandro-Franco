@@ -1,10 +1,13 @@
 ## Olá, eu sou o Leandro Franco 👋
 
-**Desenvolvedor back-end** — Java · Spring Boot · TypeScript · PostgreSQL\nEstudante de Análise e Desenvolvimento de Sistemas (Facint) · freelancer · Brasil
+**Desenvolvedor back-end** — Java · Spring Boot · TypeScript · PostgreSQL\
+Estudante de Análise e Desenvolvimento de Sistemas (Facint) · freelancer · Brasil
 
 Gosto de pegar um problema real e levar até produção. Começo pelos requisitos,
 testo contra banco de verdade e deixo cada decisão registrada junto do código,
 para quem vier depois entender o porquê — e não só o quê.
+
+📫 [LinkedIn](https://www.linkedin.com/in/leandrofigueiredofranco) · aberto a oportunidades em back-end
 
 ---
 
@@ -57,7 +60,11 @@ Ferramentas para a operação de uma rede de mercados autônomos 24h.
 
 ### Stack
 
-**Back-end:** Java 21, Spring Boot 3, Spring Security, JPA/Hibernate, Flyway\n**Web:** TypeScript, Next.js, React, Node.js, Tailwind CSS\n**Dados:** PostgreSQL, Supabase, Drizzle ORM\n**Qualidade e entrega:** JUnit 5, Testcontainers, Vitest, GitHub Actions, Docker, Vercel\n**Automação:** n8n, Google Apps Script, extensões de navegador
+**Back-end:** Java 21, Spring Boot 3, Spring Security, JPA/Hibernate, Flyway\
+**Web:** TypeScript, Next.js, React, Node.js, Tailwind CSS\
+**Dados:** PostgreSQL, Supabase, Drizzle ORM\
+**Qualidade e entrega:** JUnit 5, Testcontainers, Vitest, GitHub Actions, Docker, Vercel\
+**Automação:** n8n, Google Apps Script, extensões de navegador
 
 ---
 
