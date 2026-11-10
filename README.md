@@ -7,7 +7,7 @@ Gosto de pegar um problema real e levar até produção. Começo pelos requisito
 testo contra banco de verdade e deixo cada decisão registrada junto do código,
 para quem vier depois entender o porquê — e não só o quê.
 
-📫 [LinkedIn](https://www.linkedin.com/in/leandrofigueiredofranco) · aberto a oportunidades em back-end
+📫 [LinkedIn](https://www.linkedin.com/in/leandrofigueiredofranco) · aberto a oportunidades em back-end ou full stack
 
 ---
 
