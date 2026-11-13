@@ -30,6 +30,15 @@ Site de um evento beneficente de rap, com inscrições e venda de merch.
 
 `Next.js 16` `React 19` `TypeScript` `PostgreSQL` `Drizzle` `Zod` `Vitest` `Vercel`
 
+#### [The Sir Vault — loja com vitrine 3D](https://github.com/Leandro-Franco/thesirvault-portfolio) · [no ar](https://thesirvault.com.br)
+Loja de um pacote digital para produtores musicais: o visitante explora um estúdio em 3D,
+compra pelo Mercado Pago e recebe por e-mail um link pessoal para baixar os arquivos.
+- Vitrine 3D em three.js sem framework, com gestos de toque e versão em lista para aparelhos sem 3D
+- Backend serverless em Cloudflare Worker, em camadas (rotas, casos de uso, repositórios, serviços)
+- Webhook do Mercado Pago com HMAC, links de download assinados e bucket privado; 123 testes no CI
+
+`JavaScript` `three.js` `Vite` `Cloudflare Workers` `D1` `R2` `Mercado Pago` `node:test` `GitHub Actions`
+
 #### [um - AU — extensão para clínica veterinária](https://github.com/Leandro-Franco/um-au-extensao)
 Extensão de navegador que lê o atendimento aberto no sistema da clínica e envia para
 uma planilha via n8n, acabando com a digitação dupla.
@@ -61,9 +70,9 @@ Ferramentas para a operação de uma rede de mercados autônomos 24h.
 ### Stack
 
 **Back-end:** Java 21, Spring Boot 3, Spring Security, JPA/Hibernate, Flyway\
-**Web:** TypeScript, Next.js, React, Node.js, Tailwind CSS\
+**Web:** TypeScript, Next.js, React, Node.js, Tailwind CSS, three.js\
 **Dados:** PostgreSQL, Supabase, Drizzle ORM\
-**Qualidade e entrega:** JUnit 5, Testcontainers, Vitest, GitHub Actions, Docker, Vercel\
+**Qualidade e entrega:** JUnit 5, Testcontainers, Vitest, GitHub Actions, Docker, Vercel, Cloudflare Workers\
 **Automação:** n8n, Google Apps Script, extensões de navegador
 
 ---
@@ -82,6 +91,9 @@ first, tests against a real database, and every decision written down next to th
 - **[Salvadores Nacionais](https://github.com/Leandro-Franco/salvadores-nacionais-site)** —
   Next.js site for a charity rap event, with Mercado Pago payments, privacy by default
   and a full CI pipeline.
+- **[The Sir Vault](https://github.com/Leandro-Franco/thesirvault-portfolio)** — online
+  store with an interactive 3D showroom (three.js), Mercado Pago checkout and automatic
+  delivery through a serverless Cloudflare Worker.
 - **[um - AU](https://github.com/Leandro-Franco/um-au-extensao)** — browser extension
   that sends vet clinic appointments to Google Sheets through n8n, with a human in the loop.
 - **Armazzem** *(client, private)* — tooling for a chain of 24/7 self-service stores.
